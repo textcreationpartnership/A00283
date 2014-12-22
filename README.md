@@ -32,9 +32,18 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A briefe and plaine declaration, concerning the desires of all those faithfull ministers, that haue 
+
+1. A praeface to
+the Christian
+Reader.
+
 #####Body#####
-A briefe and plaine declaration, concerning the desires of all those faithfull ministers, that haue 
+
+1. ¶ A LEARNED DISCOVRSE,
+OF ECCLESIASTIcall
+Gouernement, prooued by the
+worde of God.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
